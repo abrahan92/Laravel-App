@@ -56,7 +56,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'mendozaabrahan@gmail.com'),
+        'address' => env('MAIL_FROM_ADDRESS', 'benitellezhash@gmail.com'),
         'name' => env('MAIL_FROM_NAME', 'Abrahan Mendoza'),
     ],
 
@@ -84,9 +84,9 @@ return [
     |
     */
 
-    'username' => 'mendozaabrahan@gmail.com',
+    'username' => 'benitellezhash@gmail.com',
 
-    'password' => 'Usa2017-',
+    'password' => 'Usa2018-',
 
     /*
     |--------------------------------------------------------------------------
